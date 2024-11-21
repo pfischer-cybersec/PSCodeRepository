@@ -8,9 +8,9 @@
 - **Operating System**: Windows 10, Windows Server, or any compatible platform.  
 - **Optional**: Some scripts may require additional modules or dependencies.
 
-## ⚠️ **Disclaimer**  
-The scripts in this repository are provided "as-is" without any warranties or guarantees. Always review and thoroughly test the code in a controlled environment before using it in production.
-
 ## 💼 Let's Connect  
 
-If you have any questions, suggestions, or just want to connect, feel free to visit my [LinkedIn profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pfischer-cybersec/)). I'm always open to networking and discussions!  
+If you have any questions, suggestions, or just want to connect, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/pfischer-cybersec/). I'm always open to networking and discussions!  
+
+## ⚠️ **Disclaimer**  
+The scripts in this repository are provided "as-is" without any warranties or guarantees. Always review and thoroughly test the code in a controlled environment before using it in production.
